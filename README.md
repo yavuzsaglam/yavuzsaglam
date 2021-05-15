@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yavuzsaglam
+- 👀 I’m interested in embeded software
+- 🌱 I’m currently learning C/C++/.Net C#/VBA
+- 📫 How to reach me yvzsaglam@gmail.com
